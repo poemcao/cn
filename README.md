@@ -1,4 +1,1 @@
-cn
-==
-
-chinese blog
+My chinese blog
