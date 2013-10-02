@@ -1,9 +1,9 @@
 ---
 layout: nil
-baseurl: http://robertboloc.github.com
+baseurl: http://poemcao.github.com/cn
 urls:
-- http://robertboloc.github.com/
-- http://robertboloc.github.com/index.html
+- http://poemcao.github.com/cn
+- http://poemcao.github.com/cn/index.html
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
