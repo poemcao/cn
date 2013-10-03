@@ -34,3 +34,14 @@ backgroud
 迎人的编贝
 嗔人的晚云    
 和使我不敢轻易近航的珊瑚的礁区
+
+latex test
+=======================================================
+
+$$
+  \begin{aligned}
+  \dot{x} & = \sigma(y-x) \\
+  \dot{y} & = \rho x - y - xz \\
+  \dot{z} & = -\beta z + xy
+  \end{aligned}
+$$
