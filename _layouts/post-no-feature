@@ -30,4 +30,5 @@
     </section>
 </div>
 
+{% include comment.html %}
 {% include footer.html %}
